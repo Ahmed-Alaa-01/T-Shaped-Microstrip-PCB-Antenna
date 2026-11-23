@@ -1,2 +1,2 @@
 # T-Shaped-Microstrip-PCB-Antenna
-Design and electromagnetic simulation of a T-shaped microstrip patch antenna using CST Studio Suite, including antenna geometry, impedance matching, S-parameter analysis, and radiation characteristics.
+Design, CST Studio Suite simulation, and experimental characterization of a T-shaped microstrip patch antenna on an FR4 substrate. Includes antenna geometry, electromagnetic simulation results, PCB prototype photographs, and measured S11 response with a comparison between simulated and experimental resonance.
